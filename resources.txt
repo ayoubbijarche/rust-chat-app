@@ -1,0 +1,8 @@
+
+yt : 
+    -https://www.youtube.com/watch?v=NS9Dh63i_Q4
+
+
+docs :    
+    -https://tokio.rs/tokio/tutorial
+    -https://rocket.rs/guide/v0.5/introduction/

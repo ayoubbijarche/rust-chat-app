@@ -1,0 +1,11 @@
+[package]
+author="ayoubbijarche <ayoubbijarche5@gmail.com>"
+name = "rustchatapp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rocket = { version = "0.5.1", features = ["json"] }
+rocket_dyn_templates = { version = "0.2.0", features = ["tera"] }
+[dev-dependencies]
+rand = "*"
