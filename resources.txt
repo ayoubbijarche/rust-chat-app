@@ -6,3 +6,4 @@ yt :
 docs :    
     -https://tokio.rs/tokio/tutorial
     -https://rocket.rs/guide/v0.5/introduction/
+    -https://socket.io/docs/v4/
